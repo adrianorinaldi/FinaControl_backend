@@ -1,7 +1,6 @@
 package com.controledegastos.controllers;
 
 import com.controledegastos.dtos.CategoriaDTO;
-import com.controledegastos.dtos.ContaDTO;
 import com.controledegastos.entities.Categoria;
 import com.controledegastos.services.CategoriaService;
 import jakarta.validation.Valid;
